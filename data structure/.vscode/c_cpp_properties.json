@@ -1,0 +1,31 @@
+
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/python3.8",
+                "/home/theo/00__Theo__Depository/Self_Projects/conda_cpp/pytorch/**",
+                "/home/theo/00__Theo__Depository/Self_Projects/conda_cpp/pytorch/torch/include/**",
+                "/home/theo/00__Theo__Depository/Self_Projects/conda_cpp/pytorch/torch/csrc/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "/home/theo/00__Theo__Depository/Self_Projects/conda_cpp/pytorch",
+                    "/home/theo/00__Theo__Depository/Self_Projects/conda_cpp/pytorch/torch/include",
+                    "/home/theo/00__Theo__Depository/Self_Projects/conda_cpp/pytorch/torch/csrc"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
