@@ -1,4 +1,4 @@
-# writtingNNs
+# WrittingNNs
 
 这个项目手写复现神经网络，旨在
 
